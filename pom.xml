@@ -5,7 +5,12 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.1-Release</version>
+	<version>0.1-Snapshot</version>
+	
+	<groupId>com.mt</groupId>
+	<artifactId>maven-web-application</artifactId>
+	<packaging>war</packaging>
+	<version>0.2-Release</version>
 	
 	<name>maven-web-application</name>
 
@@ -104,7 +109,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>anil Snapshot Nexus Repository </name>
-	      <url>http://192.168.56.6:8081/repository/anil-snapshot/</url>
+	      <url>http://54.242.229.27:8081/repository/devthopumurali-0.2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
