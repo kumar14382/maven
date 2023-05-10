@@ -7,8 +7,8 @@
 	<packaging>war</packaging>
 	<version>0.1-Snapshot</version>
 	
-	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<groupId>com.mt1</groupId>
+	<artifactId>maven-web-application1</artifactId>
 	<packaging>war</packaging>
 	<version>0.2-Release</version>
 	
