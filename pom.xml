@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1-Release</version>
 	
 	<name>maven-web-application</name>
 
@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>anil Releases Nexus Repository</name>
-	      <url>http://192.168.56.7:8081/repository/suraj/</url>
+	      <url>http://54.242.229.27:8081/repository/nexus/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
